@@ -1,0 +1,14 @@
+note of Git and GitHub guvi hcl.
+echo "# Guvi-HCL" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashishv2011/Guvi-HCL.git
+git push -u origin main
+
+
+for command line :-
+git remote add origin https://github.com/ashishv2011/Guvi-HCL.git
+git branch -M main
+git push -u origin main
