@@ -1,4 +1,4 @@
-note of Git and GitHub guvi hcl.
+Session note of Git and GitHub guvi hcl.
 echo "# Guvi-HCL" >> README.md
 git init
 git add README.md
